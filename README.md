@@ -15,6 +15,8 @@ LIBO-ON, Nathan Allen L.
 
 PHILIPPINE SCIENCE HS - MC 
 
+![Homepage](./assests/pianologo.jpg "Mountain View")
+
 # Description
 
 ## Out website aims to inform people about an instrument we have come to love, piano's! We will be dwelling on the history of the piano and the people who contributed in making this wonderful instrument. Furthermore, we will be showing the insides of the piano and how it actually works. For those interseted to learn how to play this instrument, we will be adding a cheat sheet of important piano chords. All in all, we want to educate people about the piano and hopefully interest some into learning this wonderful piece of music!
@@ -55,36 +57,36 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 # Wireframe:
 
 ## Home Page: 
-![Homepage](../assests/homepage.jpg "Mountain View")
+![Homepage](./assests/homepage.jpg "Mountain View")
 
 ## Page 1
 
-![Homepage](../assests/page1.jpg "Mountain View")
+![Homepage](./assests/page1.jpg "Mountain View")
 
 ## Page 1 Expanded
 
-![Homepage](../assests/page1expanded.jpg "Mountain View")
+![Homepage](./assests/page1expanded.jpg "Mountain View")
 
 ## Page 2
 
-![Homepage](../assests/page2.jpg "Mountain View")
+![Homepage](./assests/page2.jpg "Mountain View")
 
 ## Page 2 Expanded
 
-![Homepage](../assests/page2expanded.jpg "Mountain View")
+![Homepage](./assests/page2expanded.jpg "Mountain View")
 
 ## Page 3
 
-![page2expnaded](../assests/page3.jpg "Mountain View")
+![page2expnaded](./assests/page3.jpg "Mountain View")
 
 ## Page 3 Expanded
 
-![page2expnaded](../assests/page3expanded.jpg "Mountain View")
+![page2expnaded](./assests/page3expanded.jpg "Mountain View")
 
 ## Page 4
 
-![page2expnaded](../assests/page4.jpg "Mountain View")
+![page2expnaded](./assests/page4.jpg "Mountain View")
 
 ## Page 4 Expanded
 
-![page2expnaded](../assests/page4expanded.jpg "Mountain View")
+![page2expnaded](./assests/page4expanded.jpg "Mountain View")
