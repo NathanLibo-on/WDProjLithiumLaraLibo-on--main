@@ -53,8 +53,38 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 
 
 # Wireframe:
-![Homepage](.assets/homepage.jpg "Mountain View")
 
 ## Home Page: 
+![Homepage](.assests/images/homepage.jpg "Mountain View")
 
+## Page 1
 
+![Homepage](.assests/images/page1.jpg "Mountain View")
+
+## Page 1 Expanded
+
+![Homepage](.assests/images/page1expanded.jpg "Mountain View")
+
+## Page 2
+
+![Homepage](.assests/images/page2.jpg "Mountain View")
+
+## Page 2 Expanded
+
+![Homepage](.assests/images/page2expanded.jpg "Mountain View")
+
+## Page 3
+
+![page2expnaded](.assests/images/page3.jpg "Mountain View")
+
+## Page 3 Expanded
+
+![page2expnaded](.assests/images/page3expanded.jpg "Mountain View")
+
+## Page 4
+
+![page2expnaded](.assests/images/page4.jpg "Mountain View")
+
+## Page 4 Expanded
+
+![page2expnaded](.assests/images/page4expanded.jpg "Mountain View")
