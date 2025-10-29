@@ -53,7 +53,7 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 
 
 # Wireframe:
-![Homepage](assets/homepage.jpg "Mountain View")
+![Homepage](.assets/homepage.jpg "Mountain View")
 
 ## Home Page: 
 
