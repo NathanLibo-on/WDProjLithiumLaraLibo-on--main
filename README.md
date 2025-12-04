@@ -1,7 +1,4 @@
 # WDProjLithiumLaraLibo-on Project Proposal
-**you can remove this after reading: the topic is great and also the inclusion of the virtual piano,** 
-**please check your spellings and extra characters that are not needed in this proposal.**
-**I will wait for the pages' wireframes good luck --ALMendoza**
 
 ## 88 Keys 
 
@@ -15,7 +12,7 @@ LIBO-ON, Nathan Allen L.
 
 PHILIPPINE SCIENCE HS - MC 
 
-![Homepage](./assests/pianologo.jpg "Mountain View")
+![Homepage](./assets/pianologo.jpg "Mountain View")
 
 # Description
 
@@ -57,36 +54,36 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 # Wireframe:
 
 ## Home Page: 
-![Homepage](./assests/homepage.jpg "Mountain View")
+![Homepage](./assets/homepage.jpg "Mountain View")
 
 ## Page 1
 
-![Homepage](./assests/page1.jpg "Mountain View")
+![Homepage](./assets/page1.jpg "Mountain View")
 
 ## Page 1 Expanded
 
-![Homepage](./assests/page1expanded.jpg "Mountain View")
+![Homepage](./assets/page1expanded.jpg "Mountain View")
 
 ## Page 2
 
-![Homepage](./assests/page2.jpg "Mountain View")
+![Homepage](./assets/page2.jpg "Mountain View")
 
 ## Page 2 Expanded
 
-![Homepage](./assests/page2expanded.jpg "Mountain View")
+![Homepage](./assets/page2expanded.jpg "Mountain View")
 
 ## Page 3
 
-![page2expnaded](./assests/page3.jpg "Mountain View")
+![page2expnaded](./assets/page3.jpg "Mountain View")
 
 ## Page 3 Expanded
 
-![page2expnaded](./assests/page3expanded.jpg "Mountain View")
+![page2expnaded](./assets/page3expanded.jpg "Mountain View")
 
 ## Page 4
 
-![page2expnaded](./assests/page4.jpg "Mountain View")
+![page2expnaded](./assets/page4.jpg "Mountain View")
 
 ## Page 4 Expanded
 
-![page2expnaded](./assests/page4expanded.jpg "Mountain View")
+![page2expnaded](./assets/page4expanded.jpg "Mountain View")
