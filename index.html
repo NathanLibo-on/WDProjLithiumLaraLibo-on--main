@@ -12,30 +12,46 @@
 <title> Interactive Piano </title>
 <link rel="stylesheet" href="styles.css">
 <link rel="icon" href="INSERT PAGE ICON" type="image/x-icon">
-<script> src="script.js" defer> </script>;
+<script> src="script.js" </script>;
 
 <style>
 /* IMPORTANT TOPIC OF DISCUSSION: Insert Internal Styles - Travis */
 
 
 /* Style Section for Website Explanation (Travs) */
+
+body {
+  background-image: url("../assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  margin: 0;
+  padding: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(241, 212, 48);
+}
 .explanSection { 
-    background-color: rgb(241, 235, 235);
-    border: 1px solid black;
+    background-color: rgba(202, 116, 59, 0.8);
+    border: 4px solid black;
     border-radius: 10px;
+    height: 100px;
     padding: 25px; 
-    margin-bottom: 30px;
+    margin: 10vh;
     box-shadow: 0 0 10px rgba(197,197,197);
     text-align: center;
 } 
 
 /* Style Section for Other Webpage Hyperlinks (Travs) */
 .indexLinks {
-    background-color: rgb(241, 235, 235);
-    border: 1px solid black;
+    background-color: rgba(202, 116, 59, 0.8);
+    border: 4px solid black;
     border-radius: 10px;
     padding: 25px; 
-    margin-bottom: 30px;
+    margin: 10vh;
     box-shadow: 0 0 10px rgba(197,197,197);
     text-align: center;
 }
@@ -46,7 +62,11 @@
             margin: 0 auto;
         }
  header {
-        background-color: #f4f4f4;
+        background-color: rgba(190, 126, 30, 0.849); 
+        border: 4px solid black;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
         padding: 10px;
         display: flex;              /* Use flexbox for easy alignment */
         justify-content: space-between; /* Space between text and image */
@@ -71,7 +91,7 @@
   <div class="center">
     <header> 
     <h1> 88 Keys </h1>
-    <img src="HEADER.img"  alt="Logo" class="right-image"> 
+    <img src="./assets/pianologo.jpg"  alt="Logo" class="right-image"> 
     
    </header>
     
@@ -90,6 +110,41 @@
           <a href="LINK TO PAGE FIVE: REFERENCES"> </a>
     </nav>
 </section>
+
+<div class="container">
+    
+    <div class="firstPage">
+        <div class="content-box black-box">
+            <span class="page-number"> 1 </span>
+            <span class="description">Description</span>
+        </div>
+        <div class="content-box empty-box"></div>
+    </div>
+
+    <div class="thirdPage">
+        <div class="content-box empty-box"></div>
+        <div class="content-box black-box right-align">
+            <span class="page-number"> 3 </span>
+            <span class="description">Description</span>
+        </div>
+    </div>
+
+    <div class="secondPage">
+        <div class="content-box black-box">
+            <span class="page-number"> 2 </span>
+            <span class="description">Description</span>
+        </div>
+        <div class="content-box empty-box"></div>
+    </div>
+
+    <div class="fourthPage">
+        <div class="content-box empty-box"></div>
+        <div class="content-box black-box right-align">
+            <span class="page-number"> 4 </span>
+            <span class="description">Description</span>
+        </div>
+    </div>
+</div>
   
 <footer> 
 <footer>
