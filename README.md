@@ -43,7 +43,7 @@ PHILIPPINE SCIENCE HS - MC
   * B. Audio Files
     1. An audio file for each chord that when played will let the user hear what each chord sounds like.
 ### **V. Interactive Piano**
-  * A. JS Piano\
+  * A. JS Piano
     1. An interactive piano that users can play by using either their mouse or the keyboard.
 
 
@@ -54,36 +54,67 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 # Wireframe:
 
 ## Home Page: 
-![Homepage](./assets/homepage.jpg "Mountain View")
+![Homepage](./assets/homepage.jpg "Home Page")
 
 ## Page 1
 
-![Homepage](./assets/page1.jpg "Mountain View")
+![Homepage](./assets/page1.jpg "Page 1")
 
 ## Page 1 Expanded
 
-![Homepage](./assets/page1expanded.jpg "Mountain View")
+![Homepage](./assets/page1expanded.jpg "Page 1 expanded")
 
 ## Page 2
 
-![Homepage](./assets/page2.jpg "Mountain View")
+![Homepage](./assets/page2.jpg "Page 2")
 
 ## Page 2 Expanded
 
-![Homepage](./assets/page2expanded.jpg "Mountain View")
+![Homepage](./assets/page2expanded.jpg "Page 2 expanded")
 
 ## Page 3
 
-![page2expnaded](./assets/page3.jpg "Mountain View")
+![page2expnaded](./assets/page3.jpg "Page 3")
 
 ## Page 3 Expanded
 
-![page2expnaded](./assets/page3expanded.jpg "Mountain View")
+![page2expnaded](./assets/page3expanded.jpg "Page 3 expanded")
 
 ## Page 4
 
-![page2expnaded](./assets/page4.jpg "Mountain View")
+![page2expnaded](./assets/page4.jpg "Page 4")
 
 ## Page 4 Expanded
 
-![page2expnaded](./assets/page4expanded.jpg "Mountain View")
+![page2expnaded](./assets/page4expanded.jpg "Page 4 expanded")
+
+
+## HTML Forms: Piano Practice Planner
+
+
+# Designs
+
+### **VI. Sign up for PPP** 
+  * A. Links to page 7 and 8
+    1. Once the form is completed, the gathered info will be saved w the user will unlock the navigation to pages 7 and 8.
+  * B. Info Boxes
+    1. The user will input the required info here to unlock the PPP
+    2. Info such as name, age, skill level (beginner, intermediate, advanced), preffered genre (Jazz, Clasical, Pop, etc.), practice duration per day currently, how often they practice in a week/month, and their main goal (faster fingers, learn a new piece, etc.)
+  * C Links to page 7 and 8
+    1. Once the form is completed, the gathered info will be saved w the user will unlock the navigation to pages 7 and 8.
+### **VII. PPP for user**
+  * A. Main PPP
+    1. A Piano Practice Plan will be made for the user using the info inputed in page 6.
+  * B. Feedback and Recommendations
+    1. A set of pre made recommendations for improvement will be made in accordance with the inputed info.
+### **VIII. Resources for user**
+  * A. Images
+    1. A set of images that align with the users goal will appear to aid the user in their practices
+  * B. Audio Files
+    1. A set of audio files containing recommended songs to learn will appear based on the users preffered genre.
+    C. Videos
+    1. A set of youtube videos will appear based on the users skill level to help the user further progress. 
+   
+   
+ 
+
