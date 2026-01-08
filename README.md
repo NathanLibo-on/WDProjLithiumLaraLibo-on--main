@@ -92,7 +92,7 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 ## HTML Forms: Piano Practice Planner
 
 
-# Designs
+# Outlines
 
 ### **VI. Sign up for PPP** 
   * A. Links to page 7 and 8
