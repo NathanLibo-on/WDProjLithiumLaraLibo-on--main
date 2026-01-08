@@ -99,7 +99,7 @@ JavaScript will be used primarily to add the element of interactivity in the Int
     1. Once the form is completed, the gathered info will be saved w the user will unlock the navigation to pages 7 and 8.
   * B. Info Boxes
     1. The user will input the required info here to unlock the PPP
-    2. Info such as name, age, skill level (beginner, intermediate, advanced), preffered genre (Jazz, Clasical, Pop, etc.), practice duration per day currently, how often they practice in a week/month, and their main goal (faster fingers, learn a new piece, etc.)
+    2. Info such as name, age, skill level (beginner, intermediate, advanced), preffered genre (Jazz, Clasical, Pop, etc.), practice duration per day currently, how often they practice in a week, and their main goal (faster fingers, learn a new piece, etc.)
   * C Links to page 7 and 8
     1. Once the form is completed, the gathered info will be saved w the user will unlock the navigation to pages 7 and 8.
 ### **VII. PPP for user**
