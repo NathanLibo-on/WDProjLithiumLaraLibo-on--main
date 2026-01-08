@@ -58,38 +58,38 @@ JavaScript will be used primarily to add the element of interactivity in the Int
 
 ## Page 1
 
-![Homepage](./assets/page1.jpg "Page 1")
+![Page 1](./assets/page1.jpg "Page 1")
 
 ## Page 1 Expanded
 
-![Homepage](./assets/page1expanded.jpg "Page 1 expanded")
+![Page 1 expanded](./assets/page1expanded.jpg "Page 1 expanded")
 
 ## Page 2
 
-![Homepage](./assets/page2.jpg "Page 2")
+![Page 2](./assets/page2.jpg "Page 2")
 
 ## Page 2 Expanded
 
-![Homepage](./assets/page2expanded.jpg "Page 2 expanded")
+![Page 2 expanded](./assets/page2expanded.jpg "Page 2 expanded")
 
 ## Page 3
 
-![page2expnaded](./assets/page3.jpg "Page 3")
+![Page 3](./assets/page3.jpg "Page 3")
 
 ## Page 3 Expanded
 
-![page2expnaded](./assets/page3expanded.jpg "Page 3 expanded")
+![Page 3 expanded](./assets/page3expanded.jpg "Page 3 expanded")
 
 ## Page 4
 
-![page2expnaded](./assets/page4.jpg "Page 4")
+![Page 4](./assets/page4.jpg "Page 4")
 
 ## Page 4 Expanded
 
-![page2expnaded](./assets/page4expanded.jpg "Page 4 expanded")
+![Page 4 expanded](./assets/page4expanded.jpg "Page 4 expanded")
 
 
-## HTML Forms: Piano Practice Planner
+# HTML Forms: Piano Practice Planner
 
 
 # Outlines
@@ -113,7 +113,12 @@ JavaScript will be used primarily to add the element of interactivity in the Int
   * B. Audio Files
     1. A set of audio files containing recommended songs to learn will appear based on the users preffered genre.
     C. Videos
-    1. A set of youtube videos will appear based on the users skill level to help the user further progress. 
+    1. A set of youtube videos will appear based on the users skill level to help the user further progress.
+   
+# Wireframe:
+
+## Page 6: 
+![Homepage](./assets/homepage.jpg "Home Page")
    
    
  
